@@ -6,11 +6,11 @@ Classes are a template for creating objects. They encapsulate data with code to 
 
 Inheritence:
 Use of keyword 'extends'
+eg: class Admin extends User{}
 
 Constructor:
 function that constructs the object.
 use of 'this' keyword
-eg: class Admin extends User{}
 
 When we create new instance of class we are setting the value for the 'this' keyword in that class
 
