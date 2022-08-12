@@ -1,0 +1,4 @@
+> Using encapsulation, we group function and properties together that reduces complexities and increase reusability
+> Using Abstraction, we hide the details of the implementation and expose only the functionality that we need. it isolates the impact of changes.
+> Using inheritance, we can reuse the code written in the base class and extend it to the derived class. it eliminate the repetition of code.
+> Using Polymorphism, we can use the same function in different ways. it allows us to use the same function in different ways. It helps us refactor the ugly switch/case statements.

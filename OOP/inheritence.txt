@@ -1,0 +1,2 @@
+> super object and derived object
+> prevents redundancy
