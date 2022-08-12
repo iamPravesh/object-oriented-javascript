@@ -1,0 +1,6 @@
+> take a example of remote control.
+> we just press the button on the remote and things happens without us having to care about the complex structure of the remote working.
+> complexities are hidded - this is abstraction
+> we can use abstraction in objects
+> results in simpler interface
+> reduces the impact of the Changes
